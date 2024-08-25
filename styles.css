@@ -97,6 +97,8 @@ p {
 .img1{
     height: 100px;
     width: 100px;
+    
+    background: rgba(251, 248, 248, 0); /* Semi-transparent white background */
 }
 .videos {
     object-fit: cover;
